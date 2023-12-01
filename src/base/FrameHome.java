@@ -113,6 +113,7 @@ public class FrameHome extends javax.swing.JFrame {
             }
         });
         getContentPane().add(bHistory, new org.netbeans.lib.awtextra.AbsoluteConstraints(560, 390, 170, 190));
+        getContentPane().add(bHistory, new org.netbeans.lib.awtextra.AbsoluteConstraints(558, 390, 170, 190));
 
         bSignOut.setBackground(new java.awt.Color(102, 102, 102));
         bSignOut.setFont(new java.awt.Font("Microsoft YaHei UI", 1, 12)); // NOI18N
